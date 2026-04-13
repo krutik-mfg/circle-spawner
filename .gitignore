@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Unity generated
+game-client/game-client/Library/
+game-client/game-client/Logs/
+game-client/game-client/Temp/
+game-client/game-client/obj/
+game-client/game-client/Build/
+game-client/game-client/Builds/
+game-client/game-client/UserSettings/
+game-client/game-client/*.suo
+game-client/game-client/*.userprefs
+game-client/game-client/*.booproj
+game-client/game-client/sysinfo.txt
+game-client/game-client/crashlytics-build.properties
+game-client/game-client/ExportedObj/
+game-client/game-client/.consulo/
+game-client/game-client/*.csproj
+game-client/game-client/*.pidb
+game-client/game-client/*.unityproj
+game-client/game-client/*.sln
+game-client/game-client/*.suo
+game-client/game-client/*.tmp
+game-client/game-client/*.user
+game-client/game-client/*.userprefs
+game-client/game-client/*.pidb.meta
+game-client/game-client/*.pdb
+game-client/game-client/*.pdb.meta
+
+# Claude Code local settings
+.claude/
+
+# Node.js (backend)
+game-backend/node_modules/
+game-backend/dist/
+game-backend/.env
